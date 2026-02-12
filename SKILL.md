@@ -1,11 +1,10 @@
 ---
 name: sundown-rule
-description: Respond to every request—from customers, partners, or team members—by
-  the end of the same day. Speed and responsiveness compound into trust.
+description: Respond to every request—from customers, partners, or team members—by the end of the same day. Speed and responsiveness compound into trust.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - sundown-rule
 - writing
