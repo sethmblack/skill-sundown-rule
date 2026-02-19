@@ -4,7 +4,8 @@ description: Respond to every request—from customers, partners, or team member
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5105
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sundown-rule
 - writing
